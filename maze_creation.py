@@ -25,7 +25,7 @@ maze = Maze(
 
 
 def mazes_path():
-    directory_path = Path("C:/Users/FiercePC/PycharmProjects/pythonProject1/maze-solver/mazes")
+    directory_path = Path("C:/Users/FiercePC/PycharmProjects/pythonProject1/maze-solver/mazes") #Absolute path
     return directory_path
 
 
